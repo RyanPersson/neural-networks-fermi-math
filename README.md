@@ -8,7 +8,7 @@ Josiah, the conda env I had you create the other day, `linear-algebra-class`, wi
 Otherwise run via:
 1. `conda env create --file environment.yml`
 
-2. `conda activate math-playground`
+2. `conda activate fermi-napkin`
 
 3. `jupyter notebook`
 
