@@ -1,4 +1,4 @@
-name: math-playground
+name: fermi-napkin
 channels:
   - defaults
   - conda-forge
@@ -7,6 +7,5 @@ dependencies:
   - numpy
   - matplotlib
   - ipywidgets
-  - pandas
   - jupyterlab
-prefix: /home/ryan/anaconda3/envs/math-playground
+ 
