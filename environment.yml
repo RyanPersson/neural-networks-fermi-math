@@ -7,8 +7,6 @@ dependencies:
   - numpy
   - matplotlib
   - ipywidgets
-  - sympy
   - pandas
-  - scipy
   - jupyterlab
 prefix: /home/ryan/anaconda3/envs/math-playground
